@@ -1,5 +1,4 @@
 # SOFTBOOK
-
 Softbook is a digital platform or application designed to offer a seamless and interactive experience for reading, storing, and managing books or documents. It can be used for e-books, PDFs, or other digital publications. Softbook provides users with a personalized library, advanced reading features, and a smooth interface for organizing and accessing their collection.
 
 
