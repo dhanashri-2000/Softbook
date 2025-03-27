@@ -1,0 +1,19 @@
+{
+  "name": "softbook",
+  "version": "1.0.0",
+  "description": "backend of a social network project/websites",
+  "keywords": [
+    "node.js",
+    "express.js",
+    "social",
+    "network",
+    "softbook"
+  ],
+  "license": "ISC",
+  "author": "softbook admin",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "index.js"
+  }
+}
