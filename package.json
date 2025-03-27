@@ -1,7 +1,7 @@
 {
   "name": "softbook",
   "version": "1.0.0",
-  "description": "backend of a social network project/websites",
+  "description": "backend of a social network website/project",
   "keywords": [
     "node.js",
     "express.js",
@@ -14,6 +14,6 @@
   "type": "module",
   "main": "server.js",
   "scripts": {
-    "start": "index.js"
+    "start": "node server.js"
   }
 }
