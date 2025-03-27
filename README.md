@@ -71,7 +71,23 @@ Collaborative Reading:
 
 ## Tech Stack
 
-## API
+- Node.js
+- Express.js
+- dotenv
+- mongoose
+- nodemon
+
+## API Endpoints
+
+Users
+- /api/v1/user/create
+- /api/v1/user/getall
+- /api/v1/user/get/:id
+- /api/v1/user/delete/:id
+- /api/v1/user/update/:id
+
+
+## Security considerations
 
 
 
